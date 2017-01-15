@@ -2,8 +2,8 @@
 This project shows how to add API versioning to an ASP.NET Core project using header versioning.
 
 
-## Setting Up The App 
-To Run the service the first time, follow these steps.
+## Setting Up The Project 
+To run the service the first time, follow these steps.
 
 1. Ensure that [.NET Core SDK](https://www.microsoft.com/net/core#windowscmd)  is installed.
 
@@ -16,7 +16,7 @@ To Run the service the first time, follow these steps.
   dotnet restore
   ```
 
-  ## Running the project
+## Running the project
 
 1. Open a command prompt or a powershell command window.
 

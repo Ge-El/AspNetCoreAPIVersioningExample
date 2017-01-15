@@ -3,7 +3,7 @@ This project shows how to add API versioning to an ASP.NET Core project using Ur
 
 
 ## Setting Up The App 
-To Run the service the first time, follow these steps.
+To run the service the first time, follow these steps.
 
 1. Ensure that [.NET Core SDK](https://www.microsoft.com/net/core#windowscmd)  is installed.
 
@@ -16,7 +16,7 @@ To Run the service the first time, follow these steps.
   dotnet restore
   ```
 
-  ## Running the project
+## Running the project
 
 1. Open a command prompt or a powershell command window.
 
@@ -27,15 +27,16 @@ To Run the service the first time, follow these steps.
   dotnet run
   ```
 
-  ## Paths 
+## Paths 
 
-  ## GreetingController v.1 
+### GreetingController v.1 
 
 ```shell
  api/1.0/greeting
    ```
  
- ## GreetingController v.2
+ 
+### GreetingController v.2
 ```shell
  api/2.0/greeting
    ```
