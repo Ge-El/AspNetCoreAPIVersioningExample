@@ -28,7 +28,6 @@ To run the service the first time, follow these steps.
   ```
 
 ## Paths 
-
 ### GreetingController V1.0
 ```shell
  api/greeting?api-version=1.0

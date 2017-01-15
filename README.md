@@ -3,5 +3,5 @@ Three project showing diffrent ways how to add API versioning to an ASP.Net Core
 Examples using API versioning library [Microsoft.AspNetCore.Mvc.Versioning](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Versioning).
 
 * Url Path Segment API Versioning
-* Querystring Versioning 
+* Query String Versioning 
 * Header Versioning
