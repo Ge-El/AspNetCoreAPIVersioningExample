@@ -22,7 +22,7 @@ To run the service the first time, follow these steps.
 
 2. Navigate to the app root folder
 
-3. Run the following command to restore all the nuget packages:
+3. Run the following command to run the project:
   ```shell
   dotnet run
   ```
@@ -38,5 +38,5 @@ To run the service the first time, follow these steps.
  api/greeting?api-version=2.0
    ```
  
- if version is not specified in querystring, project fallbacks to API version 2.0.
- Use browser or a httpclient like postman. 
+ If version is not specified in querystring, project fallbacks to API version 2.0.
+ Use a browser or a httpclient like postman to try it out. 
